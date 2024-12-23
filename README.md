@@ -1,4 +1,4 @@
-# – Projeto Sentinela
+# Projeto Sentinela
 
 ### Visão Geral
 
